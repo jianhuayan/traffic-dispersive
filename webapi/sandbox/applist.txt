@@ -1,0 +1,102 @@
+AOL Instant Messenger
+AOL Webmail
+Bandwidth HTTP
+Bandwidth Raw
+BitTorrent Cisco EMIX
+BitTorrent Enterprise
+BitTorrent File Download
+BitTorrent RMIX 5M
+BitTorrent Service Provider
+Facebook
+Facebook Android
+Facebook Android Chat Session
+HTTPS Simulated Financial
+IMAPv4-Advanced Financial
+POP3-Advanced Financial
+SMB Client File Download Financial
+HTTP Flash Video Service Provider
+HTTP GET - Android42 to Apache Server   
+HTTP GET - BlackBerry10 to Apache Server
+HTTP GET - Chrome25 (Windows 7) to Apache Server
+HTTP GET - Firefox19 (Windows 7) to Apache Server
+HTTP GET - IE9 (Windows
+HTTP GET - Opera11 (Linux) to Apache Server
+HTTP GET - Opera12 (OS X) to Apache Server
+HTTP GET - Safari6 (OS X) to Apache Server
+iTunes Desktop App Store
+Jabber Chat
+MS-SQL Server
+MySQL Database Update
+Netflix Service Provider
+Oracle Database
+Oracle Enterprise
+Outlook Web Access
+Pandora LTE Mix
+Pandora
+POP3 LTE Mix
+POP3 RMIX 4K
+POP3 RMIX 16K
+POP3 RMIX 90K
+PostgreSQL
+Raw Enterprise
+Raw LTE mix
+SMBv2 Auth Session Financial
+SMBv2 File Download Financial
+SMTP Email Financial
+Flash Enterprise
+FTP Small download
+FTP Active mode
+FTP Cisco EMIX
+FTP Enterprise
+Gnutella
+Google Mail
+Google Play LTE Mix
+Google Play Search View and Download
+Google Search
+Google GTalk Chat
+HTTP Audio
+HTTP Cisco EMIX
+HTTP Compressed
+HTTP Enterprise
+HTTP Flash Video
+HTTP LTE Mix
+HTTP Mobile Europe
+HTTP Mobile North America
+HTTP RMIX 30K
+HTTP RMIX 130K
+HTTP RMIX 25K
+HTTP Service Provider
+HTTP Text
+HTTP Video
+HTTP Video Enterprise
+HTTPS LTE Mix
+HTTPS Simulated
+HTTPS Simulated Enterprise
+HTTPS Simulated Service Provider
+ICQ
+IMAP Cisco EMIX
+IMAP LTE Mix
+IMAP RMIX 4K
+IMAP RMIX 16K
+IMAP RMIX 90K
+Raw Service Provider
+Raw Wireless
+RTMP
+SMB Client File Download
+SMB Enterprise
+SMTP Cisco EMIX
+SMTP Email
+SMTP Enterprise
+SMTP RMIX 4K
+SMTP RMIX 16K
+SMTP RMIX 90K
+SSH
+Twitter Json
+Webex
+Windows Live (MSN)
+Messenger v15
+Yahoo IM Chat v10
+Yahoo Mail
+YouTube Enterprise
+YouTube LTE Mix
+YouTube Service Provider

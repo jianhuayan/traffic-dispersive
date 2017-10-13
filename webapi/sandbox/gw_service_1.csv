@@ -1,0 +1,3 @@
+service_id,service_label,vtc_id,gateway_ip,gateway_netmask,crypto_level,low_latency,data_interleaving,transparency,perm_connect,icmp_tunnel,dns_options,tx_redundancy,netflow_index,collection_location,qos_profile
+L3-gw-A,,Dell230-A,10.50.1.0,255.255.255.0,None,yes,no,yes,no,no,none,on,-1,client,-1
+L3-gw-B,,Dell230-B,10.50.2.0,255.255.255.0,None,yes,no,yes,no,no,none,on,-1,client,-1

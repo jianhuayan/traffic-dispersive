@@ -1,0 +1,4 @@
+BitTorrent Enterprise: both manual and script failed. It appears not a script issue.
+
+LogProcess use "python" to execute
+Others use python2.7

@@ -1,0 +1,3326 @@
+Connecting to https://10.1.0.212
+Created session 261
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      30843440
+4000      30991520
+6000      31404000
+8000      31404000
+10000      31697280
+12000      31110720
+14000      31339168
+16000      30693552
+18000      31132480
+20000      29409272
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    30843440
+4000    30991520
+6000    31404000
+8000    31404000
+10000    31697280
+12000    31110720
+14000    31339168
+16000    30693552
+18000    31132480
+20000    29409272
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 262
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      265631764
+4000      286198228
+6000      285880472
+8000      292000548
+10000      293450360
+12000      288580216
+14000      287987100
+16000      297716628
+18000      290099352
+20000      248426532
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    265631764
+4000    286198228
+6000    285880472
+8000    292000548
+10000    293450360
+12000    288580216
+14000    287987100
+16000    297716628
+18000    290099352
+20000    248426532
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 263
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      415635460
+4000      448539848
+6000      459699984
+8000      451722624
+10000      451292420
+12000      443831448
+14000      437267008
+16000      452116256
+18000      445146844
+20000      455821836
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    415635460
+4000    448539848
+6000    459699984
+8000    451722624
+10000    451292420
+12000    443831448
+14000    437267008
+16000    452116256
+18000    445146844
+20000    455821836
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 264
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      103305912
+4000      96760260
+6000      95868900
+8000      99222288
+10000      102055476
+12000      97180264
+14000      96657228
+16000      97362364
+18000      95897768
+20000      98100560
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    103305912
+4000    96760260
+6000    95868900
+8000    99222288
+10000    102055476
+12000    97180264
+14000    96657228
+16000    97362364
+18000    95897768
+20000    98100560
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 265
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      465547928
+4000      554137700
+6000      546428384
+8000      530620468
+10000      548925544
+12000      539462764
+14000      545096824
+16000      550300520
+18000      561918176
+20000      543768704
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    465547928
+4000    554137700
+6000    546428384
+8000    530620468
+10000    548925544
+12000    539462764
+14000    545096824
+16000    550300520
+18000    561918176
+20000    543768704
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 266
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      395841552
+4000      418382772
+6000      442837564
+8000      420473548
+10000      436572128
+12000      439204956
+14000      438088068
+16000      422519308
+18000      424864360
+20000      453429776
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    395841552
+4000    418382772
+6000    442837564
+8000    420473548
+10000    436572128
+12000    439204956
+14000    438088068
+16000    422519308
+18000    424864360
+20000    453429776
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 267
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 17 (Bandwidth HTTP) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 2 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 268
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      0
+4000      0
+6000      0
+8000      158098420
+10000      427376612
+12000      439155724
+14000      427692424
+16000      453588916
+18000      442035680
+20000      432837524
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    0
+4000    0
+6000    0
+8000    158098420
+10000    427376612
+12000    439155724
+14000    427692424
+16000    453588916
+18000    442035680
+20000    432837524
+
+
+Stopping the session...
+Deleting the session...
+1
+$appData[0]
+$appData[0]
+Connecting to https://10.1.0.212
+Created session 269
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 4 (Facebook) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0245: The partner program closed the TCP socket connection unexpectedly.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 104<br>                      Call: receive<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0245.htm" target="_blank">Help for error CHR0245</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+0
+Connecting to https://10.1.0.212
+Created session 270
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      415041804
+4000      573547888
+6000      575361220
+8000      577913964
+10000      594863952
+12000      600457640
+14000      595974536
+16000      582684220
+18000      586098276
+20000      324010784
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    415041804
+4000    573547888
+6000    575361220
+8000    577913964
+10000    594863952
+12000    600457640
+14000    595974536
+16000    582684220
+18000    586098276
+20000    324010784
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 271
+Starting the session...
+Configuring the test...
+Connecting to https://10.1.0.212
+Created session 272
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 13 (Flash Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 273
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      13326160
+4000      13332972
+6000      13664388
+8000      13605476
+10000      13311724
+12000      13668480
+14000      13328880
+16000      13612788
+18000      13645260
+20000      13327632
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    13326160
+4000    13332972
+6000    13664388
+8000    13605476
+10000    13311724
+12000    13668480
+14000    13328880
+16000    13612788
+18000    13645260
+20000    13327632
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 274
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      143382344
+4000      151797816
+6000      151797600
+8000      151797600
+10000      151797600
+12000      151779468
+14000      148718728
+16000      150335244
+18000      156353072
+20000      151801488
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    143382344
+4000    151797816
+6000    151797600
+8000    151797600
+10000    151797600
+12000    151779468
+14000    148718728
+16000    150335244
+18000    156353072
+20000    151801488
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 275
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      17685100
+4000      0
+6000      0
+8000      0
+10000      0
+12000      243531140
+14000      244846804
+16000      257790020
+18000      77679588
+20000      23830188
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    17685100
+4000    0
+6000    0
+8000    0
+10000    0
+12000    243531140
+14000    244846804
+16000    257790020
+18000    77679588
+20000    23830188
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 276
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      20501440
+4000      21228796
+6000      20496404
+8000      20492148
+10000      21233052
+12000      21121476
+14000      20603724
+16000      21236776
+18000      20488424
+20000      16978792
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    20501440
+4000    21228796
+6000    20496404
+8000    20492148
+10000    21233052
+12000    21121476
+14000    20603724
+16000    21236776
+18000    20488424
+20000    16978792
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 277
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 20 (Gnutella) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 278
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      185229972
+4000      261133796
+6000      271168476
+8000      272824400
+10000      269548484
+12000      264160220
+14000      271162004
+16000      265417300
+18000      269547616
+20000      250226372
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    185229972
+4000    261133796
+6000    271168476
+8000    272824400
+10000    269548484
+12000    264160220
+14000    271162004
+16000    265417300
+18000    269547616
+20000    250226372
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 279
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      333324104
+4000      390998980
+6000      392297088
+8000      398808132
+10000      399462508
+12000      406612900
+14000      404273812
+16000      395632568
+18000      398579804
+20000      391667288
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    333324104
+4000    390998980
+6000    392297088
+8000    398808132
+10000    399462508
+12000    406612900
+14000    404273812
+16000    395632568
+18000    398579804
+20000    391667288
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 280
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      12435292
+4000      0
+6000      208127668
+8000      325566452
+10000      518772488
+12000      382951232
+14000      348594144
+16000      348772300
+18000      172368304
+20000      544841828
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    12435292
+4000    0
+6000    208127668
+8000    325566452
+10000    518772488
+12000    382951232
+14000    348594144
+16000    348772300
+18000    172368304
+20000    544841828
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 281
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      401869704
+4000      473402680
+6000      382479636
+8000      362174344
+10000      75927964
+12000      94576268
+14000      70630032
+16000      311094860
+18000      384953824
+20000      296387724
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    401869704
+4000    473402680
+6000    382479636
+8000    362174344
+10000    75927964
+12000    94576268
+14000    70630032
+16000    311094860
+18000    384953824
+20000    296387724
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 282
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 6 (Google Search) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 283
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      440446096
+4000      494079856
+6000      480946976
+8000      501180768
+10000      514687104
+12000      495148800
+14000      482562752
+16000      503850656
+18000      496891808
+20000      492338496
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    440446096
+4000    494079856
+6000    480946976
+8000    501180768
+10000    514687104
+12000    495148800
+14000    482562752
+16000    503850656
+18000    496891808
+20000    492338496
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 284
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      372012920
+4000      494569532
+6000      492311004
+8000      483908444
+10000      490374020
+12000      500431908
+14000      375607628
+16000      479177352
+18000      520666060
+20000      495946088
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    372012920
+4000    494569532
+6000    492311004
+8000    483908444
+10000    490374020
+12000    500431908
+14000    375607628
+16000    479177352
+18000    520666060
+20000    495946088
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 285
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 13 (HTTP Audio) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 1 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 286
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 10 (HTTP GET - Chrome 25 (Windows 7) to Apache Server) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 287
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 5 (HTTP Cisco EMIX) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 288
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 4 (HTTP Compressed) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 289
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 11 (HTTP Video Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 290
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>', u'User 9 (HTTP GET - Firefox 19 (Windows 7) to Apache Server) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 291
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 7 (HTTP Flash Video) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 292
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 14 (HTTP GET - IE9 (Windows 7) to Apache Server) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0225: The TCP address is unreachable, the endpoint or phone is unavailable,<br>or the endpoint does not support the requested function.<br>The log message was:<br>CHR0211: <br>           Partner address: 10.50.1.12<br>           Service Quality: <br>       Partner port number: 50080<br>      Communications errno: 113<br>                      Call: connect<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0225.htm" target="_blank">Help for error CHR0225</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 293
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 4 (HTTP LTE Mix) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 294
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      72669752
+4000      74892408
+6000      74745032
+8000      72887952
+10000      74264216
+12000      74648000
+14000      72240000
+16000      74111184
+18000      72971048
+20000      74694568
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    72669752
+4000    74892408
+6000    74745032
+8000    72887952
+10000    74264216
+12000    74648000
+14000    72240000
+16000    74111184
+18000    72971048
+20000    74694568
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 295
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      72234632
+4000      74490328
+6000      75589968
+8000      73948784
+10000      74528960
+12000      74649168
+14000      74528960
+16000      74649168
+18000      73875424
+20000      72778336
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    72234632
+4000    74490328
+6000    75589968
+8000    73948784
+10000    74528960
+12000    74649168
+14000    74528960
+16000    74649168
+18000    73875424
+20000    72778336
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 296
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      437762036
+4000      504000564
+6000      497253904
+8000      470400604
+10000      506037444
+12000      504130480
+14000      462325404
+16000      452502536
+18000      476040136
+20000      443383488
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    437762036
+4000    504000564
+6000    497253904
+8000    470400604
+10000    506037444
+12000    504130480
+14000    462325404
+16000    452502536
+18000    476040136
+20000    443383488
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 297
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      417827436
+4000      459283632
+6000      493687300
+8000      486290160
+10000      488700972
+12000      500776752
+14000      467352252
+16000      496903888
+18000      491391236
+20000      481451160
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    417827436
+4000    459283632
+6000    493687300
+8000    486290160
+10000    488700972
+12000    500776752
+14000    467352252
+16000    496903888
+18000    491391236
+20000    481451160
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 298
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 6 (HTTP RMIX 130K) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 299
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      402309144
+4000      456681692
+6000      445048772
+8000      451272936
+10000      451683160
+12000      429227688
+14000      461482168
+16000      453101808
+18000      424545392
+20000      445967240
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    402309144
+4000    456681692
+6000    445048772
+8000    451272936
+10000    451683160
+12000    429227688
+14000    461482168
+16000    453101808
+18000    424545392
+20000    445967240
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 300
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      440390192
+4000      493968728
+6000      491756540
+8000      493233356
+10000      481510920
+12000      456491464
+14000      478212372
+16000      478581576
+18000      498962904
+20000      473331144
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    440390192
+4000    493968728
+6000    491756540
+8000    493233356
+10000    481510920
+12000    456491464
+14000    478212372
+16000    478581576
+18000    498962904
+20000    473331144
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 301
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      446627260
+4000      505009416
+6000      498440572
+8000      513298288
+10000      494925696
+12000      488414272
+14000      497612716
+16000      477681852
+18000      464041560
+20000      403881956
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    446627260
+4000    505009416
+6000    498440572
+8000    513298288
+10000    494925696
+12000    488414272
+14000    497612716
+16000    477681852
+18000    464041560
+20000    403881956
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 302
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      5262960
+4000      0
+6000      0
+8000      6337316
+10000      655340
+12000      0
+14000      54846652
+16000      655340
+18000      0
+20000      0
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    5262960
+4000    0
+6000    0
+8000    6337316
+10000    655340
+12000    0
+14000    54846652
+16000    655340
+18000    0
+20000    0
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 303
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      387723544
+4000      480810888
+6000      478346872
+8000      469153368
+10000      467811480
+12000      468299588
+14000      469511408
+16000      458835780
+18000      460723796
+20000      446443576
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    387723544
+4000    480810888
+6000    478346872
+8000    469153368
+10000    467811480
+12000    468299588
+14000    469511408
+16000    458835780
+18000    460723796
+20000    446443576
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 304
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 5 (HTTP Video) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 305
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      90579828
+4000      215396044
+6000      240389876
+8000      0
+10000      131068
+12000      0
+14000      91764904
+16000      49931188
+18000      256882012
+20000      32206516
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    90579828
+4000    215396044
+6000    240389876
+8000    0
+10000    131068
+12000    0
+14000    91764904
+16000    49931188
+18000    256882012
+20000    32206516
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 306
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      0
+4000      4990800
+6000      10726472
+8000      9991368
+10000      10358368
+12000      10358752
+14000      10359280
+16000      10358800
+18000      10904000
+20000      10903568
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    0
+4000    4990800
+6000    10726472
+8000    9991368
+10000    10358368
+12000    10358752
+14000    10359280
+16000    10358800
+18000    10904000
+20000    10903568
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 307
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      10443040
+4000      10904000
+6000      10904000
+8000      10904000
+10000      10904000
+12000      10904000
+14000      10904000
+16000      10904000
+18000      11374332
+20000      10433668
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    10443040
+4000    10904000
+6000    10904000
+8000    10904000
+10000    10904000
+12000    10904000
+14000    10904000
+16000    10904000
+18000    11374332
+20000    10433668
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 308
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      156887572
+4000      0
+6000      272240
+8000      15954272
+10000      444945972
+12000      427677700
+14000      414813384
+16000      337627172
+18000      275131248
+20000      280767172
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    156887572
+4000    0
+6000    272240
+8000    15954272
+10000    444945972
+12000    427677700
+14000    414813384
+16000    337627172
+18000    275131248
+20000    280767172
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 309
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 8 (HTTPS Simulated Service Provider) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 310
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      23982168
+4000      19845208
+6000      23017604
+8000      16798528
+10000      22258000
+12000      23728224
+14000      23748588
+16000      21383080
+18000      21556716
+20000      23181100
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    23982168
+4000    19845208
+6000    23017604
+8000    16798528
+10000    22258000
+12000    23728224
+14000    23748588
+16000    21383080
+18000    21556716
+20000    23181100
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 311
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      5316400
+4000      5444808
+6000      5230152
+8000      5092544
+10000      5470816
+12000      5196240
+14000      5187920
+16000      5375440
+18000      5196240
+20000      5187920
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    5316400
+4000    5444808
+6000    5230152
+8000    5092544
+10000    5470816
+12000    5196240
+14000    5187920
+16000    5375440
+18000    5196240
+20000    5187920
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 312
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 4 (IMAP Cisco EMIX) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 17 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 313
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      119201132
+4000      444913164
+6000      84018008
+8000      0
+10000      0
+12000      6507828
+14000      0
+16000      0
+18000      0
+20000      0
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    119201132
+4000    444913164
+6000    84018008
+8000    0
+10000    0
+12000    6507828
+14000    0
+16000    0
+18000    0
+20000    0
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 314
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 9 (IMAP RMIX 16K) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 315
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      41589272
+4000      37702292
+6000      38678864
+8000      41033660
+10000      38726652
+12000      40887564
+14000      40897004
+16000      43286720
+18000      39357348
+20000      41407120
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    41589272
+4000    37702292
+6000    38678864
+8000    41033660
+10000    38726652
+12000    40887564
+14000    40897004
+16000    43286720
+18000    39357348
+20000    41407120
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 316
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      231096288
+4000      267793808
+6000      264589140
+8000      266866220
+10000      249493212
+12000      272639244
+14000      270301744
+16000      274638996
+18000      265243108
+20000      259975272
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    231096288
+4000    267793808
+6000    264589140
+8000    266866220
+10000    249493212
+12000    272639244
+14000    270301744
+16000    274638996
+18000    265243108
+20000    259975272
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 317
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      12525492
+4000      128446640
+6000      554376292
+8000      437257608
+10000      27249344
+12000      0
+14000      0
+16000      10223304
+18000      520991288
+20000      100218352
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    12525492
+4000    128446640
+6000    554376292
+8000    437257608
+10000    27249344
+12000    0
+14000    0
+16000    10223304
+18000    520991288
+20000    100218352
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 318
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      16266776
+4000      20498584
+6000      18581500
+8000      19598812
+10000      20005088
+12000      21809288
+14000      20441356
+16000      18687748
+18000      20181128
+20000      19643720
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    16266776
+4000    20498584
+6000    18581500
+8000    19598812
+10000    20005088
+12000    21809288
+14000    20441356
+16000    18687748
+18000    20181128
+20000    19643720
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 319
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      95138344
+4000      111016304
+6000      113898024
+8000      114790192
+10000      108331624
+12000      111170024
+14000      110940748
+16000      113918944
+18000      115545788
+20000      55851756
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    95138344
+4000    111016304
+6000    113898024
+8000    114790192
+10000    108331624
+12000    111170024
+14000    110940748
+16000    113918944
+18000    115545788
+20000    55851756
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 320
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      17597944
+4000      18875532
+6000      15584220
+8000      14003204
+10000      18682352
+12000      21181680
+14000      20923400
+16000      21325648
+18000      21276336
+20000      17042292
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    17597944
+4000    18875532
+6000    15584220
+8000    14003204
+10000    18682352
+12000    21181680
+14000    20923400
+16000    21325648
+18000    21276336
+20000    17042292
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 321
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      10373432
+4000      0
+6000      0
+8000      83055540
+10000      197893272
+12000      0
+14000      5720436
+16000      0
+18000      0
+20000      0
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    10373432
+4000    0
+6000    0
+8000    83055540
+10000    197893272
+12000    0
+14000    5720436
+16000    0
+18000    0
+20000    0
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://192.168.164.127
+Connecting to https://10.1.0.212
+Created session 322
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      0
+4000      27269736
+6000      51220856
+8000      51652660
+10000      51768084
+12000      66506292
+14000      66089376
+16000      56388008
+18000      51382280
+20000      49361920
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    0
+4000    27269736
+6000    51220856
+8000    51652660
+10000    51768084
+12000    66506292
+14000    66089376
+16000    56388008
+18000    51382280
+20000    49361920
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 323
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      50414840
+4000      49723772
+6000      48656472
+8000      45449416
+10000      45866164
+12000      47436692
+14000      45112600
+16000      47002056
+18000      45845556
+20000      42351900
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    50414840
+4000    49723772
+6000    48656472
+8000    45449416
+10000    45866164
+12000    47436692
+14000    45112600
+16000    47002056
+18000    45845556
+20000    42351900
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 324
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      495945420
+4000      572214208
+6000      577201852
+8000      568830484
+10000      572556368
+12000      571252812
+14000      572990412
+16000      559619680
+18000      557196352
+20000      572923768
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    495945420
+4000    572214208
+6000    577201852
+8000    568830484
+10000    572556368
+12000    571252812
+14000    572990412
+16000    559619680
+18000    557196352
+20000    572923768
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 325
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 7 (Pandora) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 326
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      7238460
+4000      655340
+6000      0
+8000      353545044
+10000      228956796
+12000      0
+14000      10750728
+16000      0
+18000      0
+20000      158842348
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    7238460
+4000    655340
+6000    0
+8000    353545044
+10000    228956796
+12000    0
+14000    10750728
+16000    0
+18000    0
+20000    158842348
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 327
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      1669920
+4000      1688340
+6000      1650852
+8000      1669128
+10000      1694808
+12000      1661832
+14000      1704960
+16000      1704960
+18000      1686440
+20000      1670200
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    1669920
+4000    1688340
+6000    1650852
+8000    1669128
+10000    1694808
+12000    1661832
+14000    1704960
+16000    1704960
+18000    1686440
+20000    1670200
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 328
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 19 (POP3 LTE Mix) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 329
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      113420932
+4000      122754672
+6000      146669608
+8000      139839776
+10000      152095024
+12000      148656608
+14000      145696296
+16000      148223712
+18000      150428156
+20000      144950124
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    113420932
+4000    122754672
+6000    146669608
+8000    139839776
+10000    152095024
+12000    148656608
+14000    145696296
+16000    148223712
+18000    150428156
+20000    144950124
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 330
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      45823512
+4000      47126360
+6000      50054120
+8000      43190960
+10000      41678544
+12000      43410084
+14000      45513000
+16000      48093800
+18000      46316764
+20000      45314300
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    45823512
+4000    47126360
+6000    50054120
+8000    43190960
+10000    41678544
+12000    43410084
+14000    45513000
+16000    48093800
+18000    46316764
+20000    45314300
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 331
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      341050356
+4000      408370456
+6000      400011684
+8000      412034108
+10000      415419616
+12000      419707232
+14000      412053120
+16000      394382284
+18000      416097232
+20000      418043104
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    341050356
+4000    408370456
+6000    400011684
+8000    412034108
+10000    415419616
+12000    419707232
+14000    412053120
+16000    394382284
+18000    416097232
+20000    418043104
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 332
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      12186540
+4000      13196836
+6000      13078872
+8000      12978616
+10000      12894404
+12000      13332784
+14000      13253856
+16000      13397620
+18000      13170348
+20000      9930352
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    12186540
+4000    13196836
+6000    13078872
+8000    12978616
+10000    12894404
+12000    13332784
+14000    13253856
+16000    13397620
+18000    13170348
+20000    9930352
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 333
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 3 (Raw Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 334
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      329731776
+4000      574111296
+6000      570860928
+8000      575074368
+10000      560989440
+12000      561230208
+14000      575074368
+16000      583019712
+18000      572546304
+20000      520540416
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    329731776
+4000    574111296
+6000    570860928
+8000    575074368
+10000    560989440
+12000    561230208
+14000    575074368
+16000    583019712
+18000    572546304
+20000    520540416
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 335
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      340000000
+4000      0
+6000      0
+8000      0
+10000      0
+12000      0
+14000      0
+16000      17995148
+18000      0
+20000      0
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    340000000
+4000    0
+6000    0
+8000    0
+10000    0
+12000    0
+14000    0
+16000    17995148
+18000    0
+20000    0
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 336
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      498587680
+4000      568850896
+6000      583672464
+8000      579007776
+10000      569004672
+12000      569678400
+14000      581417008
+16000      577228304
+18000      567437600
+20000      573646652
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    498587680
+4000    568850896
+6000    583672464
+8000    579007776
+10000    569004672
+12000    569678400
+14000    581417008
+16000    577228304
+18000    567437600
+20000    573646652
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 337
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      3363196
+4000      3326164
+6000      3289840
+8000      3332720
+10000      3342580
+12000      3370700
+14000      3286128
+16000      3336432
+18000      3323116
+20000      3390164
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    3363196
+4000    3326164
+6000    3289840
+8000    3332720
+10000    3342580
+12000    3370700
+14000    3286128
+16000    3336432
+18000    3323116
+20000    3390164
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 338
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      104314860
+4000      105726520
+6000      107559284
+8000      111979528
+10000      111267176
+12000      104554112
+14000      108748744
+16000      112781920
+18000      116752252
+20000      97952836
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    104314860
+4000    105726520
+6000    107559284
+8000    111979528
+10000    111267176
+12000    104554112
+14000    108748744
+16000    112781920
+18000    116752252
+20000    97952836
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 339
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 10 (SMB Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 340
+Starting the session...
+Configuring the test...
+Starting the test...
+Error GET to 'https://10.1.0.212/api/v1/sessions/340/testruns/1507/operations/start/4307' returned error. State: 'ERROR' Message: 'Error encountered - HEARTBEAT_FAILURE: Service ServiceId("IxChariotLabService.340_1507", "1.0") failed heartbeat detection'
+Error notification(s): [u'Failed to start test: HEARTBEAT_FAILURE: Service ServiceId("IxChariotLabService.340_1507", "1.0") failed heartbeat detection']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 341
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      130290536
+4000      150488704
+6000      148937788
+8000      155410108
+10000      154851404
+12000      154411212
+14000      154326096
+16000      151965424
+18000      155205560
+20000      139493940
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    130290536
+4000    150488704
+6000    148937788
+8000    155410108
+10000    154851404
+12000    154411212
+14000    154326096
+16000    151965424
+18000    155205560
+20000    139493940
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 342
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      40988152
+4000      43365612
+6000      44443680
+8000      43654644
+10000      45087336
+12000      44759808
+14000      45453128
+16000      45470884
+18000      44976072
+20000      26325284
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    40988152
+4000    43365612
+6000    44443680
+8000    43654644
+10000    45087336
+12000    44759808
+14000    45453128
+16000    45470884
+18000    44976072
+20000    26325284
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 343
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      405612892
+4000      514823464
+6000      508470520
+8000      500657340
+10000      504497856
+12000      512848544
+14000      496968984
+16000      503757224
+18000      517618256
+20000      481087768
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    405612892
+4000    514823464
+6000    508470520
+8000    500657340
+10000    504497856
+12000    512848544
+14000    496968984
+16000    503757224
+18000    517618256
+20000    481087768
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 344
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      194652864
+4000      239267256
+6000      240191160
+8000      237772240
+10000      233765836
+12000      237938644
+14000      233845352
+16000      241771088
+18000      236924572
+20000      233609060
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    194652864
+4000    239267256
+6000    240191160
+8000    237772240
+10000    233765836
+12000    237938644
+14000    233845352
+16000    241771088
+18000    236924572
+20000    233609060
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 345
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 16 (SMTP Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 346
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      168566744
+4000      197367864
+6000      178653556
+8000      180089468
+10000      195040112
+12000      196604628
+14000      190965392
+16000      189089448
+18000      198605504
+20000      180982872
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    168566744
+4000    197367864
+6000    178653556
+8000    180089468
+10000    195040112
+12000    196604628
+14000    190965392
+16000    189089448
+18000    198605504
+20000    180982872
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 347
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      67208568
+4000      65721744
+6000      73429136
+8000      74601876
+10000      73350592
+12000      78417880
+14000      76950032
+16000      81628828
+18000      77876404
+20000      77037200
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    67208568
+4000    65721744
+6000    73429136
+8000    74601876
+10000    73350592
+12000    78417880
+14000    76950032
+16000    81628828
+18000    77876404
+20000    77037200
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 348
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      415101276
+4000      458907200
+6000      465840580
+8000      461226976
+10000      456604288
+12000      440892480
+14000      455041384
+16000      462798640
+18000      453742332
+20000      453995196
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    415101276
+4000    458907200
+6000    465840580
+8000    461226976
+10000    456604288
+12000    440892480
+14000    455041384
+16000    462798640
+18000    453742332
+20000    453995196
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 349
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      187312236
+4000      232174132
+6000      244647008
+8000      241533052
+10000      242120616
+12000      248782824
+14000      241528380
+16000      238749576
+18000      237497156
+20000      241192652
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    187312236
+4000    232174132
+6000    244647008
+8000    241533052
+10000    242120616
+12000    248782824
+14000    241528380
+16000    238749576
+18000    237497156
+20000    241192652
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 350
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      3908352
+4000      3690928
+6000      3999360
+8000      3655600
+10000      3644016
+12000      3994304
+14000      3688240
+16000      3968640
+18000      3639024
+20000      3686256
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    3908352
+4000    3690928
+6000    3999360
+8000    3655600
+10000    3644016
+12000    3994304
+14000    3688240
+16000    3968640
+18000    3639024
+20000    3686256
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 351
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      262983020
+4000      292994360
+6000      307629540
+8000      301054876
+10000      313972436
+12000      304312952
+14000      304460220
+16000      306840652
+18000      299374212
+20000      300911344
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    262983020
+4000    292994360
+6000    307629540
+8000    301054876
+10000    313972436
+12000    304312952
+14000    304460220
+16000    306840652
+18000    299374212
+20000    300911344
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 352
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      11074476
+4000      10707124
+6000      11064000
+8000      11064000
+10000      11503360
+12000      11064000
+14000      11064000
+16000      11064000
+18000      11064000
+20000      11064000
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    11074476
+4000    10707124
+6000    11064000
+8000    11064000
+10000    11503360
+12000    11064000
+14000    11064000
+16000    11064000
+18000    11064000
+20000    11064000
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 353
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      9553832
+4000      10137984
+6000      10232516
+8000      10290444
+10000      10254724
+12000      10256288
+14000      10320148
+16000      10348056
+18000      10396748
+20000      10285600
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    9553832
+4000    10137984
+6000    10232516
+8000    10290444
+10000    10254724
+12000    10256288
+14000    10320148
+16000    10348056
+18000    10396748
+20000    10285600
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 354
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      7267280
+4000      7023464
+6000      7552364
+8000      7189532
+10000      7022240
+12000      7509632
+14000      7233488
+16000      7023464
+18000      7568856
+20000      7173040
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    7267280
+4000    7023464
+6000    7552364
+8000    7189532
+10000    7022240
+12000    7509632
+14000    7233488
+16000    7023464
+18000    7568856
+20000    7173040
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 355
+Starting the session...
+Configuring the test...
+Starting the test...
+The test ended
+Saving the test results into zipped CSV files...
+
+Test Level Results: 
+
+Throughput
+2000      9837564
+4000      25243956
+6000      88787580
+8000      92789364
+10000      95238236
+12000      92769460
+14000      89442920
+16000      79306900
+18000      85452372
+20000      92289672
+
+Group Level Results for AppMix 1:
+
+Throughput:
+2000    9837564
+4000    25243956
+6000    88787580
+8000    92789364
+10000    95238236
+12000    92769460
+14000    89442920
+16000    79306900
+18000    85452372
+20000    92289672
+
+
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 356
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 17 (YouTube Enterprise) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 357
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 9 (YouTube LTE Mix) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+Connecting to https://10.1.0.212
+Created session 358
+Starting the session...
+Configuring the test...
+Starting the test...
+Error The test failed with the following error(s): [u'User 17 (YouTube Service Provider) : \'172.31.0.28\' (10.50.1.11) to \'172.31.0.17\' (10.50.1.12)<br><br>The error was detected at runtime.<br>The error was detected by the Endpoint 1.<br><br>CHR0200: The TCP connection attempt timed out.<br><br><br><a href="/docs/IxChariotErrorMsgs/Default.htm#CHR0200.htm" target="_blank">Help for error CHR0200</a><br>', u'0 connection(s) failed during initialization and 20 failed at runtime, out of a total of 20 connections.<br>']
+Stopping the session...
+Deleting the session...
+ ls
+anaconda-ks.cfg     [0m[01;34mjyan[0m               [01;34mreporterCache[0m
+install.log         [01;34mPython-2.7.12[0m      [34;42msetuptools-1.4.2[0m
+install.log.syslog  [01;31mPython-2.7.12.tar[0m  [01;31msetuptools-1.4.2.tar.gz[0m
+[m]0;root@ixchariot-server:~[root@ixchariot-server ~]
+python testapp_AOL_IM.py
+
+cp testResults.zip ./runningLog/testapp_AOL_IM.py
+
+python testapp_AOL_Webmail.py
+
+cp testResults.zip ./runningLog/testapp_AOL_Webmail.py
+
+python testapp_BT_csco_emix.py
+
+cp testResults.zip ./runningLog/testapp_BT_csco_emix.py
+
+python testapp_BT_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_BT_Enterprise.py
+
+python testapp_BT_FileDld.py
+
+cp testResults.zip ./runningLog/testapp_BT_FileDld.py
+
+python testapp_BT_ServiceProvider.py
+
+cp testResults.zip ./runningLog/testapp_BT_ServiceProvider.py
+
+python testapp_BW_http.py
+
+cp testResults.zip ./runningLog/testapp_BW_http.py
+
+python testapp_BW_raw.py
+
+cp testResults.zip ./runningLog/testapp_BW_raw.py
+
+python testapp_Facebook.py
+
+cp testResults.zip ./runningLog/testapp_Facebook.py
+
+python testapp_Facebook_Android.py
+
+cp testResults.zip ./runningLog/testapp_Facebook_Android.py
+
+python testapp_Facebook_AndroidChat.py
+
+cp testResults.zip ./runningLog/testapp_Facebook_AndroidChat.py
+
+python testapp_Flash_enterprise.py
+
+cp testResults.zip ./runningLog/testapp_Flash_enterprise.py
+
+python testapp_FTP_active_mode.py
+
+cp testResults.zip ./runningLog/testapp_FTP_active_mode.py
+
+python testapp_FTP_csco_emix.py
+
+cp testResults.zip ./runningLog/testapp_FTP_csco_emix.py
+
+python testapp_FTP_enterprise.py
+
+cp testResults.zip ./runningLog/testapp_FTP_enterprise.py
+
+python testapp_FTP_s_dld.py
+
+cp testResults.zip ./runningLog/testapp_FTP_s_dld.py
+
+python testapp_Gnutella.py
+
+cp testResults.zip ./runningLog/testapp_Gnutella.py
+
+python testapp_Google_GTalk_Chat.py
+
+cp testResults.zip ./runningLog/testapp_Google_GTalk_Chat.py
+
+python testapp_Google_Mail.py
+
+cp testResults.zip ./runningLog/testapp_Google_Mail.py
+
+python testapp_Google_Play_LTE_Mix.py
+
+cp testResults.zip ./runningLog/testapp_Google_Play_LTE_Mix.py
+
+python testapp_Google_Play_Search_View_Download.py
+
+cp testResults.zip ./runningLog/testapp_Google_Play_Search_View_Download.py
+
+python testapp_Google_Search.py
+
+cp testResults.zip ./runningLog/testapp_Google_Search.py
+
+python testapp_http_Android42Apache.py
+
+cp testResults.zip ./runningLog/testapp_http_Android42Apache.py
+
+python testapp_http_Androidbberry.py
+
+cp testResults.zip ./runningLog/testapp_http_Androidbberry.py
+
+python testapp_HTTP_Audio.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Audio.py
+
+python testapp_http_Chrome25.py
+
+cp testResults.zip ./runningLog/testapp_http_Chrome25.py
+
+python testapp_HTTP_Cisco_EMIX.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Cisco_EMIX.py
+
+python testapp_HTTP_Compressed.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Compressed.py
+
+python testapp_HTTP_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Enterprise.py
+
+python testapp_http_Firefox19.py
+
+cp testResults.zip ./runningLog/testapp_http_Firefox19.py
+
+python testapp_HTTP_Flash_Video.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Flash_Video.py
+
+python testapp_http_IE9.py
+
+cp testResults.zip ./runningLog/testapp_http_IE9.py
+
+python testapp_HTTP_LTE_Mix.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_LTE_Mix.py
+
+python testapp_HTTP_Mobile_Europe.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Mobile_Europe.py
+
+python testapp_HTTP_Mobile_North_America.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Mobile_North_America.py
+
+python testapp_http_Opera11.py
+
+cp testResults.zip ./runningLog/testapp_http_Opera11.py
+
+python testapp_http_Opera12.py
+
+cp testResults.zip ./runningLog/testapp_http_Opera12.py
+
+python testapp_HTTP_RMIX_130K.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_RMIX_130K.py
+
+python testapp_HTTP_RMIX_25K.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_RMIX_25K.py
+
+python testapp_HTTP_RMIX_30K.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_RMIX_30K.py
+
+python testapp_http_Safari6.py
+
+cp testResults.zip ./runningLog/testapp_http_Safari6.py
+
+python testapp_HTTP_Service_Provider.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Service_Provider.py
+
+python testapp_HTTP_Text.py
+
+cp testResults.zip ./runningLog/testapp_HTTP_Text.py
+
+python testapp_http_Video.py
+
+cp testResults.zip ./runningLog/testapp_http_Video.py
+
+python testapp_HTTPS_LTE_Mix.py
+
+cp testResults.zip ./runningLog/testapp_HTTPS_LTE_Mix.py
+
+python testapp_Https_Sim_Fianancial.py
+
+cp testResults.zip ./runningLog/testapp_Https_Sim_Fianancial.py
+
+python testapp_HTTPS_Simulated.py
+
+cp testResults.zip ./runningLog/testapp_HTTPS_Simulated.py
+
+python testapp_HTTPS_Simulated_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_HTTPS_Simulated_Enterprise.py
+
+python testapp_HTTPS_Simulated_Service_Provider.py
+
+cp testResults.zip ./runningLog/testapp_HTTPS_Simulated_Service_Provider.py
+
+python testapp_IAMPv4_Fianancial.py
+
+cp testResults.zip ./runningLog/testapp_IAMPv4_Fianancial.py
+
+python testapp_ICQ.py
+
+cp testResults.zip ./runningLog/testapp_ICQ.py
+
+python testapp_IMAP_Cisco_EMIX.py
+
+cp testResults.zip ./runningLog/testapp_IMAP_Cisco_EMIX.py
+
+python testapp_IMAP_LTE_Mix.py
+
+cp testResults.zip ./runningLog/testapp_IMAP_LTE_Mix.py
+
+python testapp_IMAP_RMIX_16K.py
+
+cp testResults.zip ./runningLog/testapp_IMAP_RMIX_16K.py
+
+python testapp_IMAP_RMIX_4K.py
+
+cp testResults.zip ./runningLog/testapp_IMAP_RMIX_4K.py
+
+python testapp_IMAP_RMIX_90K.py
+
+cp testResults.zip ./runningLog/testapp_IMAP_RMIX_90K.py
+
+python testapp_ituneDesktop.py
+
+cp testResults.zip ./runningLog/testapp_ituneDesktop.py
+
+python testapp_JabberChat.py
+
+cp testResults.zip ./runningLog/testapp_JabberChat.py
+
+python testapp_MSSQL_server.py
+
+cp testResults.zip ./runningLog/testapp_MSSQL_server.py
+
+python testapp_Mysql_update.py
+
+cp testResults.zip ./runningLog/testapp_Mysql_update.py
+
+python testapp_Netflix_SvProvider.py
+
+cp testResults.zip ./runningLog/testapp_Netflix_SvProvider.py
+
+python testapp_old.py
+
+cp testResults.zip ./runningLog/testapp_old.py
+
+python testapp_Oracle_db.py
+
+cp testResults.zip ./runningLog/testapp_Oracle_db.py
+
+python testapp_Oracle_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_Oracle_Enterprise.py
+
+python testapp_Outlook_web.py
+
+cp testResults.zip ./runningLog/testapp_Outlook_web.py
+
+python testapp_Pandora.py
+
+cp testResults.zip ./runningLog/testapp_Pandora.py
+
+python testapp_Pandora_LTE.py
+
+cp testResults.zip ./runningLog/testapp_Pandora_LTE.py
+
+python testapp_POP3_Fianancial.py
+
+cp testResults.zip ./runningLog/testapp_POP3_Fianancial.py
+
+python testapp_Pop3_ltemix.py
+
+cp testResults.zip ./runningLog/testapp_Pop3_ltemix.py
+
+python testapp_Pop3_rmix12k.py
+
+cp testResults.zip ./runningLog/testapp_Pop3_rmix12k.py
+
+python testapp_Pop3_rmix4k.py
+
+cp testResults.zip ./runningLog/testapp_Pop3_rmix4k.py
+
+python testapp_Pop3_rmix90k.py
+
+cp testResults.zip ./runningLog/testapp_Pop3_rmix90k.py
+
+python testapp_PostgreSQL.py
+
+cp testResults.zip ./runningLog/testapp_PostgreSQL.py
+
+python testapp_Raw_entprise.py
+
+cp testResults.zip ./runningLog/testapp_Raw_entprise.py
+
+python testapp_Raw_ltemix.py
+
+cp testResults.zip ./runningLog/testapp_Raw_ltemix.py
+
+python testapp_Raw_Service_Provider.py
+
+cp testResults.zip ./runningLog/testapp_Raw_Service_Provider.py
+
+python testapp_Raw_Wireless.py
+
+cp testResults.zip ./runningLog/testapp_Raw_Wireless.py
+
+python testapp_RTMP.py
+
+cp testResults.zip ./runningLog/testapp_RTMP.py
+
+python testapp_SMB_Client_File_Download.py
+
+cp testResults.zip ./runningLog/testapp_SMB_Client_File_Download.py
+
+python testapp_SMB_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_SMB_Enterprise.py
+
+python testapp_SMB_Fianancial.py
+
+cp testResults.zip ./runningLog/testapp_SMB_Fianancial.py
+
+python testapp_SMBv2_Download_Fin.py
+
+cp testResults.zip ./runningLog/testapp_SMBv2_Download_Fin.py
+
+python testapp_SMBv2_Session_Fin.py
+
+cp testResults.zip ./runningLog/testapp_SMBv2_Session_Fin.py
+
+python testapp_SMTP_Cisco_EMIX.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_Cisco_EMIX.py
+
+python testapp_SMTP_Email.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_Email.py
+
+python testapp_SMTP_Enterprise.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_Enterprise.py
+
+python testapp_SMTP_RMIX_16K.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_RMIX_16K.py
+
+python testapp_SMTP_RMIX_4K.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_RMIX_4K.py
+
+python testapp_SMTP_RMIX_90K.py
+
+cp testResults.zip ./runningLog/testapp_SMTP_RMIX_90K.py
+
+python testapp_SMTPemailFin.py
+
+cp testResults.zip ./runningLog/testapp_SMTPemailFin.py
+
+python testapp_SSH.py
+
+cp testResults.zip ./runningLog/testapp_SSH.py
+
+python testapp_Twitter_Json.py
+
+cp testResults.zip ./runningLog/testapp_Twitter_Json.py
+
+python testapp_Webex.py
+
+cp testResults.zip ./runningLog/testapp_Webex.py
+
+python testapp_Windows_Live_MSN.py
+
+cp testResults.zip ./runningLog/testapp_Windows_Live_MSN.py
+
+python testapp_Yahoo_IM_Chat_v10.py
+
+cp testResults.zip ./runningLog/testapp_Yahoo_IM_Chat_v10.py
+
+python testapp_Yahoo_Mail.py
+
+cp testResults.zip ./runningLog/testapp_Yahoo_Mail.py
+
+python testapp_YouTube_Enterprise.pyl
+
+cp testResults.zip ./runningLog/testapp_YouTube_Enterprise.pyl
+
+python testapp_YouTube_LTE_Mix.py
+
+cp testResults.zip ./runningLog/testapp_YouTube_LTE_Mix.py
+
+python testapp_YouTube_Service_Provider.py
+
+cp testResults.zip ./runningLog/testapp_YouTube_Service_Provider.py
+

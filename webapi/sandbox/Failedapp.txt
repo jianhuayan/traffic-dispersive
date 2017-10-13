@@ -1,0 +1,31 @@
+The following app failed both manually and script
+
+BitTorrent Enterprise
+SMB Client File Download Financial
+***from 3.6.7 Mac dvn system*
+SMTP_Cisco_EMIX
+IMAP_RMIX_4K
+IMAP_Cisco_EMIX
+http_Video
+HTTP_Text------May be serious problem, can not pass http traffic, will continue test on L2GW system by changing Endpoint/Mgmt in Dvnconstant.py
+
+The following app failed on script but not on manually
+
+Netflix Service Provider
+Outlook web Access
+
+
+For L2MLX product: 02/02/2017-v.9788 load
+
+Manually failed:
+
+SMB Client File Download Financial: 
+
+(Failed to start test: HARTBEAT_FAILURE:Service)
+
+L2GW:
+SMB Client File Download Financial--The IxChariot worker process crashed, but manually OK. need to look at further--R3.6.7-05-13-2017
+
+
+
+
